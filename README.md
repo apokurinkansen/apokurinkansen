@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Kubutaku
 
-#### My dream is to make funny games with funny friends
+#### My dream is to make funny games with funny friends <a> <img src="Gifs/deal with it parrot_gifmagazine.gif" alt="parrot" width="25" height="25"/> </a>
 
 <a href = "SNS">
   

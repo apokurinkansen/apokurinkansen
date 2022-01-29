@@ -2,7 +2,7 @@
 
 #### My dream is to make funny games with funny friends <a> <img src="Gifs/thumbs up parrot_gifmagazine.gif" alt="parrot" width="25" height="25"/> </a>
 
-<a href = "SNS">
+<a href = "">
   
   <a href="http://twitter.com/kubuTaku">
     <img height="20" src="https://img.shields.io/twitter/follow/kubuTaku?label=Twitter&logo=twitter&style=flat" />

@@ -2,18 +2,19 @@
 
 #### My dream is to make funny games with funny friends <a> <img src="Gifs/thumbs up parrot_gifmagazine.gif" alt="parrot" width="25" height="25"/> </a>
 
-<a href = "">
+<p aline = "">
   
   <a href="http://twitter.com/kubuTaku">
     <img height="20" src="https://img.shields.io/twitter/follow/kubuTaku?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href = "https://instagram.com/kubutaku_24_years_old" >
-    
-
-
+ 
   </a>
-  
-</a>
+</p>
+
+[![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <h3 align="left">Connect with me:</h3>

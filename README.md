@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Kubutaku</h1>
-<h3 align="center">Make the best game</h3>
+### Hi 👋 I'm Kubutaku
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kubutaku&label=Profile%20views&color=0e75b6&style=flat" alt="kubutaku" /> </p>
+#### My dream is to make funny games with funny friends
 
-- 🔭 I’m currently working on **Working for a game company**
+<a href = "SNS">
+  
+  <a href="http://twitter.com/kubuTaku">
+    <img height="20" src="https://img.shields.io/twitter/follow/kubuTaku?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href = "https://instagram.com/kubutaku_24_years_old" >
+    
+
+
+  </a>
+  
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

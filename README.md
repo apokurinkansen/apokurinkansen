@@ -2,9 +2,11 @@
 
 #### My dream is to make funny games with funny friends <a> <img src="Gifs/thumbs up parrot_gifmagazine.gif" alt="parrot" width="25" height="25"/> </a>
 
-<p aline = "">
-  
-</p>
+
+[![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 

@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Kubutaku
 
-#### My dream is to make funny games with funny friends <a> <img src="Gifs/thumbs up parrot_gifmagazine.gif" alt="parrot" width="25" height="25"/> </a>
+#### Let's enjoy <a> <img src="Gifs/thumbs up parrot_gifmagazine.gif" alt="parrot" width="25" height="25"/> </a>
 
 
 [![](https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

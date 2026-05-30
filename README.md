@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1f6feb&height=200&section=header&text=Kubutaku&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
 
 <p>
-  <a href="https://github.com/apokurinkansen?tab=followers"><img src="https://img.shields.io/github/followers/apokurinkansen?logo=github&style=for-the-badge&color=1f6feb&labelColor=0d1117"/></a>
-  <a href="https://github.com/apokurinkansen"><img src="https://img.shields.io/github/stars/apokurinkansen?logo=github&style=for-the-badge&color=1f6feb&labelColor=0d1117"/></a>
-  <img src="https://komarev.com/ghpvc/?username=apokurinkansen&style=for-the-badge&color=1f6feb&labelColor=0d1117&label=VIEWS"/>
+  <a href="https://github.com/apokurinkansen?tab=followers"><img src="https://img.shields.io/github/followers/apokurinkansen?logo=github&style=for-the-badge&color=a371f7&labelColor=0d1117"/></a>
+  <a href="https://github.com/apokurinkansen"><img src="https://img.shields.io/github/stars/apokurinkansen?logo=github&style=for-the-badge&color=a371f7&labelColor=0d1117"/></a>
+  <img src="https://komarev.com/ghpvc/?username=apokurinkansen&style=for-the-badge&color=a371f7&labelColor=0d1117&label=VIEWS"/>
 </p>
 
 </div>
@@ -55,14 +55,14 @@ vibes:      ["small", "explicit", "tested", "automated"]
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=apokurinkansen&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&icon_color=d2a8ff&text_color=c9d1d9&ring_color=a371f7"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=apokurinkansen&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a371f7&ring=d2a8ff&fire=d2a8ff&currStreakNum=d2a8ff&sideNums=c9d1d9&currStreakLabel=d2a8ff&sideLabels=c9d1d9&dates=8b949e"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
@@ -71,25 +71,7 @@ vibes:      ["small", "explicit", "tested", "automated"]
 <div align="center">
 
 <!-- 曜日 × 濃淡のシンプルな contribution heatmap -->
-<img src="https://ghchart.rshah.org/1f6feb/apokurinkansen" width="100%" alt="contribution heatmap"/>
-
-</div>
-
-## <picture><img width="32" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></picture> &nbsp;How I think about data
-
-<div align="center">
-
-```text
-            ┌────────────┐
-            │  fct_order │   grain: 1 row per order line
-            └─────┬──────┘
-       ┌──────────┼──────────┬───────────┐
-   dim_customer  dim_date  dim_product  dim_store
-        │           │           │            │
-        └── SCD2, surrogate-keyed, fully tested ──┘
-```
-
-**Small · Explicit · Tested**
+<img src="https://ghchart.rshah.org/a371f7/apokurinkansen" width="100%" alt="contribution heatmap"/>
 
 </div>
 
@@ -97,6 +79,6 @@ vibes:      ["small", "explicit", "tested", "automated"]
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:0d1117&height=120&section=footer"/>
 
 </div>

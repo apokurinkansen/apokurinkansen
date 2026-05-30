@@ -13,18 +13,21 @@
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"/><img width="32" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"/></picture> &nbsp;About
 
-データ基盤と分析基盤の構築・改善を本業に、**dbt × SQL × Python** でディメンショナルモデリングを書いています。
-最近は **TypeScript / React** とソフトウェア設計を学習中。データを綺麗にすること、退屈な処理を自動化することが好きです。
+**Data Engineer** やってます 🛠️
+データの **インジェスチョン → モデリング → 可視化** まで、ぜんぶ面倒みるタイプ。
+いま **MDM（マスターデータマネジメント）** を絶賛勉強中📚 データを綺麗にするのが楽しい人。
+
+> 散らかったデータを、使えるデータに。
 
 <details>
-<summary><b>もう少し詳しく</b></summary>
+<summary>🔍 <b>もう少し詳しく</b></summary>
 
 ```yaml
 role:       Data Engineer
-focus:      [data platform, dimensional modeling, automation]
-daily:      [dbt, BigQuery, Snowflake, Python, GitHub Actions]
-learning:   [TypeScript, React, software design]
-philosophy: "Small, explicit, tested."
+pipeline:   ingestion → modeling → visualization
+daily:      [dbt, SQL, Python, BigQuery, Snowflake]
+learning:   [MDM (Master Data Management), software design]
+vibes:      ["small", "explicit", "tested", "automated"]
 ```
 
 </details>

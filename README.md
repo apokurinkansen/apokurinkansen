@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=apokurinkansen&style=for-the-badge&color=a371f7&labelColor=0d1117&label=VIEWS"/>
 </p>
 
+<img src="./Gifs/sprite-0003.gif" width="192" alt="pixel mascot"/>
+
 </div>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"/><img width="32" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"/></picture> &nbsp;About

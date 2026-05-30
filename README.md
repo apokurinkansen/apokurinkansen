@@ -68,17 +68,8 @@ philosophy: "Small, explicit, tested."
 
 <div align="center">
 
-<!-- 草を食べる蛇: 12時間ごとにActionsが output ブランチへ生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/apokurinkansen/apokurinkansen/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<br/><br/>
-
-<!-- 折れ線の活動グラフ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apokurinkansen&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Contributions%20over%20time" width="100%"/>
+<!-- 曜日 × 濃淡のシンプルな contribution heatmap -->
+<img src="https://ghchart.rshah.org/1f6feb/apokurinkansen" width="100%" alt="contribution heatmap"/>
 
 </div>
 

@@ -52,15 +52,14 @@ philosophy: "Small, explicit, tested."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=apokurinkansen&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=apokurinkansen&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=apokurinkansen&theme=gruvbox&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 

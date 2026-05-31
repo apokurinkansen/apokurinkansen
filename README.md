@@ -86,65 +86,68 @@ mantra:    [small, explicit, tested, automated]
      SKILL TREE
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+SKILL+TREE" alt="Skill Tree"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+SKILLS" alt="Skills"/>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="middle" align="right" width="180">
 
-**🗡️  MAIN CLASS ─ Data Engineer**
-
-```
-SQL          ▰▰▰▰▰▰▰▰▰▱  Lv.18
-dbt          ▰▰▰▰▰▰▰▰▱▱  Lv.17
-BigQuery     ▰▰▰▰▰▰▰▰▱▱  Lv.17
-Python       ▰▰▰▰▰▰▰▱▱▱  Lv.15
-PostgreSQL   ▰▰▰▰▰▱▱▱▱▱  Lv.12
-GCP          ▰▰▰▰▰▰▱▱▱▱  Lv.14
-```
+🗡️ &nbsp;**MAIN CLASS**<br/><sub>Data Engineer</sub>
 
 </td>
-<td valign="top" width="50%">
-
-**🎨  SUBCLASS ─ Pixel Artist**
-
-```
-Aseprite     ▰▰▱▱▱▱▱▱▱▱  Lv.5
-Animation    ▰▱▱▱▱▱▱▱▱▱  Lv.3
-```
-
-**🔓  NEW SKILL TREES (unlocking)**
-
-```
-C# / Unity   ▰▱▱▱▱▱▱▱▱▱  Lv.2
-C++ / UE     ▰▱▱▱▱▱▱▱▱▱  Lv.2
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+<td valign="middle">
 
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right">
+
+🎨 &nbsp;**SUBCLASS**<br/><sub>Pixel Artist</sub>
+
+</td>
+<td valign="middle">
+
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right">
+
+🔓 &nbsp;**LEARNING**<br/><sub>Game Dev</sub>
+
+</td>
+<td valign="middle">
+
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right">
+
+🛠️ &nbsp;**TOOLS**<br/><sub>Daily drivers</sub>
+
+</td>
+<td valign="middle">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,neovim&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,neovim&theme=light" alt="tools"/>
 </picture>
 
-</div>
+</td>
+</tr>
+</table>
 
 <!-- ============================================================
      BATTLE LOG (stats + streak)

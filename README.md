@@ -150,23 +150,6 @@ mantra:   [small, explicit, tested, automated]
 </div>
 
 <!-- ============================================================
-     ADVENTURE MAP (contribution graph)
-     ============================================================ -->
-
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+ADVENTURE+MAP" alt="Adventure Map"/>
-
-<div align="center">
-
-<sub><i>冒険の足跡 ─ each tile = one day of training</i></sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/d2a8ff/apokurinkansen"/>
-  <img src="https://ghchart.rshah.org/6f42c1/apokurinkansen" width="100%" alt="adventure map"/>
-</picture>
-
-</div>
-
-<!-- ============================================================
      END SCREEN
      ============================================================ -->
 

@@ -16,23 +16,13 @@
 
 <br/>
 
-<!-- ─── CHARACTER + STATS CARD (table layout) ───────────────── -->
+<!-- ─── PLAYER SPRITE ───────────────────────────────────────── -->
 
-<table>
-<tr>
-<td align="center" width="200">
-  <img src="./Gifs/sprite-0003.gif" width="180" alt="player sprite"/>
-  <br/>
-  <sub><b>★ PLAYER ★</b></sub>
-</td>
-<td align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&icon_color=d2a8ff&text_color=c9d1d9&ring_color=a371f7"/>
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=6f42c1&icon_color=6f42c1&text_color=24292f&ring_color=a371f7" alt="stats"/>
-  </picture>
-</td>
-</tr>
-</table>
+<img src="./Gifs/sprite-0003.gif" width="200" alt="player sprite"/>
+
+<br/>
+
+<sub><b>★ PLAYER ★</b></sub>
 
 <!-- ─── BADGES ROW (profile vitals) ─────────────────────────── -->
 
@@ -52,30 +42,20 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="middle" width="55%">
 
-```
-╔═══════════════════════════════╗
-║  NAME    KUBUTAKU             ║
-║  CLASS   Data Engineer        ║
-║  SUBJOB  Apprentice Game Dev  ║
-║  LEVEL   ★ Lv.25              ║
-║  HP      ████████████░░  85%  ║
-║  MP      ███████████░░░  78%  ║
-║  EXP     ██████████░░░░  to+1 ║
-╚═══════════════════════════════╝
-```
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=apokurinkansen&theme=dracula" alt="pixel stats" width="100%"/>
 
 </td>
-<td valign="top" width="50%">
+<td valign="middle" width="45%">
 
 ```yaml
-title:     "散らかったデータを、使えるデータに"
-home:      Google Cloud / BigQuery / dbt
-weapon:    Python  +  SQL
-mount:     PostgreSQL
-quest:     "Ship a game I made myself"
-mantra:    [small, explicit, tested, automated]
+title:    "散らかったデータを、使えるデータに"
+home:     Google Cloud / BigQuery / dbt
+weapon:   Python + SQL
+mount:    PostgreSQL
+quest:    "Ship a game I made myself"
+mantra:   [small, explicit, tested, automated]
 ```
 
 </td>
@@ -140,10 +120,11 @@ mantra:    [small, explicit, tested, automated]
 </td>
 <td valign="middle">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,neovim&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,neovim&theme=light" alt="tools"/>
-</picture>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 
 </td>
 </tr>

@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=apokurinkansen&theme=dracula" alt="pixel stats" width="80%"/>
+<img src="./Gifs/sprite-0005.png" alt="player status" width="320"/>
 
 </div>
 

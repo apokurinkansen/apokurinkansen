@@ -40,27 +40,11 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+PLAYER+STATUS" alt="Player Status"/>
 
-<table>
-<tr>
-<td valign="middle" width="55%">
+<div align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=apokurinkansen&theme=dracula" alt="pixel stats" width="100%"/>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=apokurinkansen&theme=dracula" alt="pixel stats" width="80%"/>
 
-</td>
-<td valign="middle" width="45%">
-
-```yaml
-title:    "散らかったデータを、使えるデータに"
-home:     Google Cloud / BigQuery / dbt
-weapon:   Python + SQL
-mount:    PostgreSQL
-quest:    "Ship a game I made myself"
-mantra:   [small, explicit, tested, automated]
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <!-- ============================================================
      SKILL TREE

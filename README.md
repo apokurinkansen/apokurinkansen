@@ -18,7 +18,7 @@
 
 <!-- ─── PLAYER SPRITE ───────────────────────────────────────── -->
 
-<img src="./Gifs/sprite-0005.png" width="200" alt="player sprite"/>
+<img src="./Gifs/sprite-0003.gif" width="200" alt="player sprite"/>
 
 <br/>
 
@@ -40,11 +40,20 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+PLAYER+STATUS" alt="Player Status"/>
 
-<div align="center">
+<table>
+<tr>
+<td valign="middle" align="center" width="35%">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=apokurinkansen&theme=dracula" alt="pixel stats" width="80%"/>
+<img src="./Gifs/sprite-0005.png" alt="player avatar" width="220"/>
 
-</div>
+</td>
+<td valign="middle" width="65%">
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=apokurinkansen&theme=dracula&hide=avatar" alt="pixel stats" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <!-- ============================================================
      SKILL TREE

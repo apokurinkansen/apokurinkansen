@@ -65,7 +65,7 @@
 <tr>
 <td valign="middle" align="right" width="180">
 
-🗡️ &nbsp;**MAIN CLASS**<br/><sub>Data Engineer</sub>
+🗡️ &nbsp;**DATA STACK**<br/><sub>day job</sub>
 
 </td>
 <td valign="middle">
@@ -74,6 +74,17 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td valign="middle" align="right">
+
+💬 &nbsp;**LANGUAGES**
+
+</td>
+<td valign="middle">
+
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -82,7 +93,7 @@
 <tr>
 <td valign="middle" align="right">
 
-🎨 &nbsp;**SUBCLASS**<br/><sub>Pixel Artist</sub>
+🎨 &nbsp;**CREATIVE**<br/><sub>pixel art</sub>
 
 </td>
 <td valign="middle">
@@ -94,7 +105,7 @@
 <tr>
 <td valign="middle" align="right">
 
-🔓 &nbsp;**LEARNING**<br/><sub>Game Dev</sub>
+🎮 &nbsp;**GAME DEV**<br/><sub>learning</sub>
 
 </td>
 <td valign="middle">
@@ -108,7 +119,7 @@
 <tr>
 <td valign="middle" align="right">
 
-🛠️ &nbsp;**TOOLS**<br/><sub>Daily drivers</sub>
+🛠️ &nbsp;**TOOLS**<br/><sub>daily drivers</sub>
 
 </td>
 <td valign="middle">

@@ -6,12 +6,12 @@
 
 <!-- ─── TITLE SCREEN ─────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:a371f7&height=220&section=header&text=KUBUTAKU&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=◆%20PRESS%20START%20TO%20PLAY%20◆&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="title screen"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:a371f7&height=220&section=header&text=KUBUTAKU&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=PRESS%20START%20TO%20PLAY&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="title screen"/>
 
 <!-- ─── NPC DIALOGUE (typing SVG, Press Start 2P) ───────────── -->
 
 <a href="https://github.com/apokurinkansen">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=900&color=A371F7&center=true&vCenter=true&multiline=true&width=720&height=80&lines=▼+Welcome%2C+traveler...;▼+I+am+kubutaku%2C+the+Data+Engineer.;▼+...+and+an+Apprentice+Game+Dev." alt="dialogue"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3500&pause=900&color=A371F7&center=true&vCenter=true&multiline=true&width=720&height=80&lines=%E2%96%BC+Welcome%2C+traveler...;%E2%96%BC+I+am+kubutaku%2C+the+Data+Engineer.;%E2%96%BC+...+and+an+Apprentice+Game+Dev." alt="dialogue"/>
 </a>
 
 <br/>
@@ -48,7 +48,7 @@
      PLAYER STATUS
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=▶+PLAYER+STATUS" alt="Player Status"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=%E2%96%B6+PLAYER+STATUS" alt="Player Status"/>
 
 <table>
 <tr>
@@ -86,7 +86,7 @@ mantra:    [small, explicit, tested, automated]
      SKILL TREE
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=▶+SKILL+TREE" alt="Skill Tree"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=%E2%96%B6+SKILL+TREE" alt="Skill Tree"/>
 
 <table>
 <tr>
@@ -129,7 +129,7 @@ C++ / UE     ▰▱▱▱▱▱▱▱▱▱  Lv.2
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -147,46 +147,10 @@ C++ / UE     ▰▱▱▱▱▱▱▱▱▱  Lv.2
 </div>
 
 <!-- ============================================================
-     QUEST LOG
-     ============================================================ -->
-
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=▶+QUEST+LOG" alt="Quest Log"/>
-
-```
-◆ MAIN QUEST  ─  "Ship a Game I Made Myself"
-   ├─  Learn C# basics ................... ▶ IN PROGRESS
-   ├─  Build a playable prototype ........ ░ LOCKED
-   └─  Publish on itch.io ................ ░ LOCKED
-
-◆ SIDE QUEST  ─  "Pixel Art Mastery"
-   ├─  Daily sprite practice ............. ▶ IN PROGRESS
-   ├─  Complete 30 sprites ............... ▰░░░░░░░░░  1 / 30
-   └─  Animate a 4-frame walk cycle ...... ░ LOCKED
-
-◆ DAILY QUEST ─  "Data Pipeline Mastery"
-   └─  MDM (Master Data Management) ...... ▶ IN PROGRESS
-```
-
-<!-- ============================================================
-     TROPHIES (achievement unlocks)
-     ============================================================ -->
-
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=▶+TROPHIES" alt="Trophies"/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=apokurinkansen&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=apokurinkansen&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
-</picture>
-
-</div>
-
-<!-- ============================================================
      BATTLE LOG (stats + streak)
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=▶+BATTLE+LOG" alt="Battle Log"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=%E2%96%B6+BATTLE+LOG" alt="Battle Log"/>
 
 <div align="center">
 
@@ -205,7 +169,7 @@ C++ / UE     ▰▱▱▱▱▱▱▱▱▱  Lv.2
      ADVENTURE MAP (contribution graph)
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=▶+ADVENTURE+MAP" alt="Adventure Map"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=%E2%96%B6+ADVENTURE+MAP" alt="Adventure Map"/>
 
 <div align="center">
 
@@ -226,7 +190,7 @@ C++ / UE     ▰▱▱▱▱▱▱▱▱▱  Lv.2
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&width=520&height=40&lines=▼+Thanks+for+playing.;▼+CONTINUE+%3F++%E2%9C%93+YES+++NO" alt="end"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=1500&color=A371F7&center=true&vCenter=true&width=520&height=40&lines=%E2%96%BC+Thanks+for+playing.;%E2%96%BC+CONTINUE+%3F++%E2%9C%93+YES+++NO" alt="end"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:0d1117&height=120&section=footer"/>

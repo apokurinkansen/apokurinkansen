@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=0d1117&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
+</picture>
 
 <p>
   <a href="https://github.com/apokurinkansen?tab=followers"><img src="https://img.shields.io/github/followers/apokurinkansen?logo=github&style=for-the-badge&color=a371f7&labelColor=0d1117"/></a>
@@ -49,7 +52,10 @@ vibes:      ["small", "explicit", "tested", "automated"]
 
 **Languages & Tools**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,bash,docker,git,github,githubactions,vscode,neovim&theme=dark"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,bash,docker,git,github,githubactions,vscode,neovim&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,bash,docker,git,github,githubactions,vscode,neovim&theme=light"/>
+</picture>
 
 </div>
 
@@ -57,14 +63,23 @@ vibes:      ["small", "explicit", "tested", "automated"]
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&icon_color=d2a8ff&text_color=c9d1d9&ring_color=a371f7"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=apokurinkansen&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a371f7&ring=d2a8ff&fire=d2a8ff&currStreakNum=d2a8ff&sideNums=c9d1d9&currStreakLabel=d2a8ff&sideLabels=c9d1d9&dates=8b949e"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&icon_color=d2a8ff&text_color=c9d1d9&ring_color=a371f7"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apokurinkansen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=6f42c1&icon_color=6f42c1&text_color=24292f&ring_color=a371f7"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=apokurinkansen&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a371f7&ring=d2a8ff&fire=d2a8ff&currStreakNum=d2a8ff&sideNums=c9d1d9&currStreakLabel=d2a8ff&sideLabels=c9d1d9&dates=8b949e"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=apokurinkansen&hide_border=true&background=ffffff&stroke=a371f7&ring=6f42c1&fire=6f42c1&currStreakNum=6f42c1&sideNums=24292f&currStreakLabel=6f42c1&sideLabels=24292f&dates=57606a"/>
+</picture>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&text_color=c9d1d9&langs_count=8"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&text_color=c9d1d9&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&hide_border=true&bg_color=ffffff&title_color=6f42c1&text_color=24292f&langs_count=8"/>
+</picture>
 
 </div>
 
@@ -73,7 +88,10 @@ vibes:      ["small", "explicit", "tested", "automated"]
 <div align="center">
 
 <!-- 曜日 × 濃淡のシンプルな contribution heatmap -->
-<img src="https://ghchart.rshah.org/a371f7/apokurinkansen" width="100%" alt="contribution heatmap"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/d2a8ff/apokurinkansen"/>
+  <img src="https://ghchart.rshah.org/6f42c1/apokurinkansen" width="100%" alt="contribution heatmap"/>
+</picture>
 
 </div>
 
@@ -81,6 +99,9 @@ vibes:      ["small", "explicit", "tested", "automated"]
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:0d1117&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:ffffff&height=120&section=footer"/>
+</picture>
 
 </div>

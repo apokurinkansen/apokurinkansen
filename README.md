@@ -48,7 +48,7 @@
      PLAYER STATUS
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=%E2%96%B6+PLAYER+STATUS" alt="Player Status"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+PLAYER+STATUS" alt="Player Status"/>
 
 <table>
 <tr>
@@ -86,7 +86,7 @@ mantra:    [small, explicit, tested, automated]
      SKILL TREE
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=%E2%96%B6+SKILL+TREE" alt="Skill Tree"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+SKILL+TREE" alt="Skill Tree"/>
 
 <table>
 <tr>
@@ -150,7 +150,7 @@ C++ / UE     ▰▱▱▱▱▱▱▱▱▱  Lv.2
      BATTLE LOG (stats + streak)
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=%E2%96%B6+BATTLE+LOG" alt="Battle Log"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+BATTLE+LOG" alt="Battle Log"/>
 
 <div align="center">
 
@@ -169,7 +169,7 @@ C++ / UE     ▰▱▱▱▱▱▱▱▱▱  Lv.2
      ADVENTURE MAP (contribution graph)
      ============================================================ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=400&height=32&lines=%E2%96%B6+ADVENTURE+MAP" alt="Adventure Map"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=99999&pause=99999&color=A371F7&width=600&height=40&lines=%E2%96%B6+ADVENTURE+MAP" alt="Adventure Map"/>
 
 <div align="center">
 

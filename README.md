@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Header banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=0d1117&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
-</picture>
+<!-- Header banner (theme-independent: dark gradient baked in) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
 
 <p>
   <a href="https://github.com/apokurinkansen?tab=followers"><img src="https://img.shields.io/github/followers/apokurinkansen?logo=github&style=for-the-badge&color=a371f7&labelColor=0d1117"/></a>

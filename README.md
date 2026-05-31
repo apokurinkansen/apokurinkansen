@@ -38,20 +38,34 @@ vibes:      ["small", "explicit", "tested", "automated"]
 
 <div align="center">
 
-**Data & Cloud**
+**Data Platform**
 
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+**Cloud**
+
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
-**Languages & Tools**
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+**Tools**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,bash,docker,git,github,githubactions,vscode,neovim&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,bash,docker,git,github,githubactions,vscode,neovim&theme=light"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,neovim&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,neovim&theme=light"/>
+</picture>
+
+**Learning** 📚
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nodejs&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs&theme=light"/>
 </picture>
 
 </div>

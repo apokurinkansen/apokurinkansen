@@ -126,10 +126,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=apokurinkansen&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=a371f7&ring=d2a8ff&fire=d2a8ff&currStreakNum=d2a8ff&sideNums=c9d1d9&currStreakLabel=d2a8ff&sideLabels=c9d1d9&dates=8b949e"/>
   <img height="170" src="https://streak-stats.demolab.com/?user=apokurinkansen&hide_border=true&background=ffffff&stroke=a371f7&ring=6f42c1&fire=6f42c1&currStreakNum=6f42c1&sideNums=24292f&currStreakLabel=6f42c1&sideLabels=24292f&dates=57606a" alt="streak"/>
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=d2a8ff&text_color=c9d1d9&langs_count=8"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apokurinkansen&layout=donut&hide_border=true&bg_color=ffffff&title_color=6f42c1&text_color=24292f&langs_count=8" alt="top langs"/>
-</picture>
 
 </div>
 

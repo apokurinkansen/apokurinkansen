@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header banner (theme-independent: dark gradient baked in) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=Data%20Engineer%20%C2%B7%20dbt%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=70&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:a371f7&height=200&section=header&text=Kubutaku&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=PRESS%20START%20TO%20PLAY&descAlignY=70&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
 
 <p>
   <a href="https://github.com/apokurinkansen?tab=followers"><img src="https://img.shields.io/github/followers/apokurinkansen?logo=github&style=for-the-badge&color=a371f7&labelColor=0d1117"/></a>
@@ -13,50 +13,91 @@
 
 </div>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"/><img width="32" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"/></picture> &nbsp;About
+## 🎮 &nbsp;PLAYER STATUS
 
-**Data Engineer** やってます 🛠️
-データの **インジェスチョン → モデリング → 可視化** まで、ぜんぶ面倒みるタイプ。
-いま **MDM（マスターデータマネジメント）** を絶賛勉強中📚 データを綺麗にするのが楽しい人。
-
-> 散らかったデータを、使えるデータに。
+```
+╔═══════════════════════════════════════════════════╗
+║  NAME    kubutaku                                 ║
+║  CLASS   Data Engineer  /  Apprentice Game Dev    ║
+║  TITLE   "散らかったデータを、使えるデータに"     ║
+║  LEVEL   Lv.25                                    ║
+║  HP      ████████████████░░░░  80 / 100           ║
+║  EXP     ███████████████░░░░░  to next Lv.        ║
+╚═══════════════════════════════════════════════════╝
+```
 
 <details>
-<summary>🔍 <b>もう少し詳しく</b></summary>
+<summary>📜 <b>CHARACTER LORE</b></summary>
 
 ```yaml
 role:       Data Engineer
 pipeline:   ingestion → modeling → visualization
-daily:      [dbt, SQL, Python, BigQuery, Snowflake]
-learning:   [MDM (Master Data Management), software design]
+daily:      [dbt, SQL, Python, BigQuery]
+studying:   [MDM (Master Data Management), software design]
+dream:      "Ship a game I made myself."
 vibes:      ["small", "explicit", "tested", "automated"]
 ```
 
 </details>
 
-## <picture><img width="32" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"/></picture> &nbsp;Tech Stack
+## 🗡️ &nbsp;SKILLS
+
+```
+[ DATA ]
+  SQL          ▰▰▰▰▰▰▰▰▰▱  Lv.18   ★★★★★
+  dbt          ▰▰▰▰▰▰▰▰▱▱  Lv.17   ★★★★★
+  BigQuery     ▰▰▰▰▰▰▰▰▱▱  Lv.17   ★★★★★
+  Python       ▰▰▰▰▰▰▰▱▱▱  Lv.15   ★★★★☆
+  PostgreSQL   ▰▰▰▰▰▱▱▱▱▱  Lv.12   ★★★☆☆
+
+[ CREATIVE ]
+  Pixel Art    ▰▰▱▱▱▱▱▱▱▱  Lv.5    ★☆☆☆☆   (Aseprite)
+
+[ LEARNING ]
+  C#           ▰▱▱▱▱▱▱▱▱▱  Lv.2    ☆☆☆☆☆   (Unity 想定)
+  C++          ▰▱▱▱▱▱▱▱▱▱  Lv.2    ☆☆☆☆☆   (Unreal 想定)
+```
+
+## 📜 &nbsp;CURRENT QUESTS
+
+```
+▸ MAIN QUEST: Ship a Game
+  ├─ Learn C# / C# fundamentals ........ [IN PROGRESS]
+  ├─ Make a playable prototype ......... [LOCKED]
+  └─ Publish on itch.io ................ [LOCKED]
+
+▸ SIDE QUEST: Pixel Art Mastery
+  ├─ Daily sprite practice ............. [IN PROGRESS]
+  ├─ Complete 30 sprites ............... [1 / 30]
+  └─ Animate a 4-frame walk cycle ...... [LOCKED]
+
+▸ DAILY QUEST: Data Pipeline Mastery
+  └─ MDM (Master Data Management) ...... [IN PROGRESS]
+```
+
+## 🎒 &nbsp;EQUIPMENT
+
+```
+[ WEAPON      ]  SQL Lance              +50 ATK
+[ ARMOR       ]  dbt Plate              +40 DEF
+[ SHIELD      ]  BigQuery Aegis         +35 DEF
+[ ACCESSORY 1 ]  Python Amulet          +30 INT
+[ ACCESSORY 2 ]  Aseprite Brush         +20 CRE
+[ MOUNT       ]  GCP Dragon             +60 SPD
+```
 
 <div align="center">
 
-**Data Platform**
-
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**Cloud**
-
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-**Languages**
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/>
 
-**Tools**
-
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,neovim&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,neovim&theme=light"/>
@@ -64,7 +105,7 @@ vibes:      ["small", "explicit", "tested", "automated"]
 
 </div>
 
-## <picture><img width="32" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"/></picture> &nbsp;GitHub Stats
+## 📊 &nbsp;BATTLE LOG
 
 <div align="center">
 
@@ -88,11 +129,11 @@ vibes:      ["small", "explicit", "tested", "automated"]
 
 </div>
 
-## <picture><img width="32" src="https://media.giphy.com/media/cuhvHO1WMRYNa/giphy.gif"/></picture> &nbsp;Contribution Activity
+## 🗺️ &nbsp;ADVENTURE MAP
 
 <div align="center">
 
-<!-- 曜日 × 濃淡のシンプルな contribution heatmap -->
+<!-- contribution heatmap = 冒険の足跡 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/d2a8ff/apokurinkansen"/>
   <img src="https://ghchart.rshah.org/6f42c1/apokurinkansen" width="100%" alt="contribution heatmap"/>
@@ -103,6 +144,8 @@ vibes:      ["small", "explicit", "tested", "automated"]
 ---
 
 <div align="center">
+
+<sub>🕹️  GAME OVER ?  &nbsp; → &nbsp; PRESS START TO CONTINUE</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:0d1117&height=120&section=footer"/>
